@@ -5,6 +5,24 @@
       "name": "hometurf-test-miniapp",
       "platforms": [
         {
+          "name": "android",
+          "versions": [
+            {
+              "name": "0.0.1",
+              "binary": null,
+              "codePush": {},
+              "container": {
+                "jsApiImpls": [],
+                "miniApps": [],
+                "nativeDeps": []
+              },
+              "isReleased": false,
+              "nativeDeps": [],
+              "yarnLocks": {}
+            }
+          ]
+        },
+        {
           "name": "ios",
           "versions": [
             {
